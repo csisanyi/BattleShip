@@ -1,4 +1,4 @@
-package com.matritellabs.utama.helper;
+package battleship;
 
 import java.io.BufferedReader;
 import java.io.IOException;
